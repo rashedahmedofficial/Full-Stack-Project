@@ -1,0 +1,12 @@
+.card_wrapper{
+  margin: 50px;
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+.card_item{
+  width: 40%;
+  padding: 50px;
+  background-color: rgb(208, 130, 40);
+  color: white;
+}
