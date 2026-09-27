@@ -18,6 +18,10 @@ const userShema = new Schema (
             type: String,
             require:true,
             trim:true,
+        },
+        avatar:{
+            type: String,
+            default: "",
         }
     },
     {
